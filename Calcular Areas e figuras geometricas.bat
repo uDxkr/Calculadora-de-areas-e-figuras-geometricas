@@ -4,7 +4,7 @@ title Calcular Áreas de Figuras Geométricas
 :menu
 cls
 echo ============================================
-echo Calcular AREAS de FIGURAS GEOMETRICAS                                                                  Creditos: Dxkr
+echo Calcular AREAS de FIGURAS GEOMETRICAS
 echo ============================================
 echo [1] Calcular a Area do Quadrado
 echo [2] Calcular a Area do Retangulo
@@ -55,3 +55,4 @@ goto menu
 
 :func4
 exit
+
