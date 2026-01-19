@@ -45,6 +45,7 @@ echo =      [15] Limpar TUDO                     =
 echo =      [0] Sair do programa                 =
 echo =                                           =
 echo =============================================
+echo .
  
 set /p opcao=Escolha uma opcao:
 if %opcao%==1  goto func1
